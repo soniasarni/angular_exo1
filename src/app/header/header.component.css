@@ -1,0 +1,17 @@
+header{
+    border:1px dotted gray;
+    background-color: rgb(147, 202, 248);
+    height: 80px;
+    margin:5px;
+    padding:5px;
+
+}
+nav{
+    border:1px dotted gray;
+    background-color: rgb(55, 93, 124);
+    height: 20px;
+    padding:5px;
+    margin:5px;
+}
+
+  
