@@ -9,9 +9,19 @@ header{
 nav{
     border:1px dotted gray;
     background-color: rgb(55, 93, 124);
-    height: 20px;
+    height: 30px;
     padding:5px;
     margin:5px;
 }
+nav ul li {
+    text-align: center;
+    padding-left: 25%;
 
+  }
+nav ul{
+    display:flex;
+    
+list-style-type: none;
+
+}
   
